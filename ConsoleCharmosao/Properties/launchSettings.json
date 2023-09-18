@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConsoleCharmosao": {
+      "commandName": "Project"
+    },
+    "StringLength": {
+      "commandName": "Project",
+      "commandLineArgs": "length \"minha string\" --repeat 3"
+    }
+  }
+}
